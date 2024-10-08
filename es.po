@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-10-08 16:16+0000\n"
+"PO-Revision-Date: 2024-10-08 17:15+0000\n"
 "Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/es/>\n"
@@ -45,7 +45,7 @@ msgstr ""
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
 msgid "Frequency Type"
-msgstr ""
+msgstr "Tipo de frecuencia"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
@@ -78,16 +78,16 @@ msgstr "Porcentajes"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
-msgstr ""
+msgstr "Elementos del argumento"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr ""
+msgstr "Tipo de argento"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr ""
+msgstr "Gráficos de barras apiladas"
 
 #: package.title
 #: package/analyses/surveyPlot.title
@@ -101,17 +101,17 @@ msgstr ""
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
 msgid "surveymv"
-msgstr ""
+msgstr "surveymv"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
-msgstr ""
+msgstr "Descripción de la variable"
 
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr ""
+msgstr "Variables"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "Violin"
