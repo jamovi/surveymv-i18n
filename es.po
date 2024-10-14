@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-10-14 16:15+0000\n"
-"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
+"PO-Revision-Date: 2024-10-14 16:16+0000\n"
+"Last-Translator: algoncer <gonzalo.almerich@uv.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/es/>\n"
 "Language: es\n"
@@ -96,7 +96,7 @@ msgstr "Barras apiladas"
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
 msgid "Survey Plots"
-msgstr "Gráfico de las encuestas"
+msgstr "Gráficos de encuestas"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
