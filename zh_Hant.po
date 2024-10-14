@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-10-14 06:16+0000\n"
+"PO-Revision-Date: 2024-10-14 07:16+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/surveymv-i18n/zh_Hant/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 
 #: surveyPlot/options/dot.title
 msgid "Data"
-msgstr "資料"
+msgstr "包含資料點"
 
 #: package/analyses/surveyPlot.menuGroup
 #: surveyPlot/options.menuGroup
@@ -114,4 +114,4 @@ msgstr "變數"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "小提琴圖(Violin)"
