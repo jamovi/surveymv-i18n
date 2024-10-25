@@ -1,16 +1,20 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"PO-Revision-Date: 2024-10-25 07:15+0000\n"
+"Last-Translator: Kristoffer Grundström <swedishsailfishosuser@tutanota.com>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/jamovi/"
+"surveymv-i18n/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.8.2-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
-msgstr ""
+msgstr "Ytterligare alternativ"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
@@ -26,7 +30,7 @@ msgstr ""
 
 #: surveyPlot/options/dot.title
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: package/analyses/surveyPlot.menuGroup
 #: surveyPlot/options.menuGroup
@@ -36,12 +40,12 @@ msgstr ""
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
 msgid "Frequency Labels"
-msgstr ""
+msgstr "Frekvens-etiketter"
 
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
 msgid "Frequency Type"
-msgstr ""
+msgstr "Frekvens-typ"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
@@ -54,7 +58,7 @@ msgstr ""
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
-msgstr ""
+msgstr "Dölj värden som saknas"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
@@ -66,11 +70,11 @@ msgstr ""
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
-msgstr ""
+msgstr "På x-axeln"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
-msgstr ""
+msgstr "Procentandelar"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
@@ -101,12 +105,12 @@ msgstr ""
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
-msgstr ""
+msgstr "Variabelns beskrivning"
 
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr ""
+msgstr "Variabler"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
