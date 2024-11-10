@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-11-09 21:00+0000\n"
+"PO-Revision-Date: 2024-11-10 12:00+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/hr/>\n"
@@ -36,7 +36,7 @@ msgstr "Podaci"
 #: package/analyses/surveyPlot.menuGroup
 #: surveyPlot/options.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "Eksploracija"
 
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
@@ -63,7 +63,7 @@ msgstr "Sakrij nedostajuće vrijednosti"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
-msgstr ""
+msgstr "U grafikonu"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
@@ -106,12 +106,12 @@ msgstr ""
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
-msgstr ""
+msgstr "Opis varijable"
 
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr ""
+msgstr "Varijable"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
