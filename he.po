@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-11-06 17:00+0000\n"
+"PO-Revision-Date: 2024-11-12 17:00+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/he/>\n"
@@ -15,11 +15,11 @@ msgstr ""
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
-msgstr ""
+msgstr "אפשרויות נוספות"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
-msgstr ""
+msgstr "תרשים קופסות"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
