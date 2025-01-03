@@ -1,24 +1,28 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"PO-Revision-Date: 2025-01-03 13:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/jamovi/"
+"surveymv-i18n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
-msgstr ""
+msgstr "கூடுதல் விருப்பங்கள்"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
-msgstr ""
+msgstr "பெட்டி சூழ்ச்சி"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
-msgstr ""
+msgstr "தொடர்ச்சியான அடுக்கு"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
@@ -36,54 +40,54 @@ msgstr ""
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
 msgid "Frequency Labels"
-msgstr ""
+msgstr "அதிர்வெண் லேபிள்கள்"
 
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
 msgid "Frequency Type"
-msgstr ""
+msgstr "அதிர்வெண் வகை"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr ""
+msgstr "குழு செய்யப்பட்ட பட்டி"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "தொகுத்தல் மாறி"
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
-msgstr ""
+msgstr "காணாமல் போன மதிப்புகளை மறைக்கவும்"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
-msgstr ""
+msgstr "சதித்திட்டத்தில்"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr ""
+msgstr "பெயரளவு / சாதாரண அடுக்கு"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
-msgstr ""
+msgstr "எக்ச்-அச்சில்"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
-msgstr ""
+msgstr "சதவீதங்கள்"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
-msgstr ""
+msgstr "சூழ்ச்சி கூறுகள்"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr ""
+msgstr "சூழ்ச்சி வகை"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr ""
+msgstr "அடுக்கப்பட்ட பார்"
 
 #: package.title
 #: package/analyses/surveyPlot.title
@@ -92,16 +96,16 @@ msgstr ""
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
 msgid "Survey Plots"
-msgstr ""
+msgstr "கணக்கெடுப்பு அடுக்கு"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
 msgid "surveymv"
-msgstr ""
+msgstr "கணக்கெடுப்பு"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
-msgstr ""
+msgstr "மாறக்கூடிய விளக்கம்"
 
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
@@ -110,4 +114,4 @@ msgstr ""
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "வயலின்"
