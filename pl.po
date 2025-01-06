@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-12-13 20:00+0000\n"
-"Last-Translator: Dawid <dawidgorski.m@gmail.com>\n"
+"PO-Revision-Date: 2025-01-06 19:01+0000\n"
+"Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/pl/>\n"
 "Language: pl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.9-rc\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -23,7 +23,7 @@ msgstr "Wykres skrzynkowy"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
-msgstr "Ciągłe wykresy"
+msgstr "Wykresy danych ciągłych"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
@@ -50,7 +50,7 @@ msgstr "Typ częstotliwości"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr "Pasek grupowy"
+msgstr "Słupki zgrupowane"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
@@ -88,7 +88,7 @@ msgstr "Typ wykresu"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr "Ułożony pasek"
+msgstr "Słupki skumulowane"
 
 #: package.title
 #: package/analyses/surveyPlot.title
