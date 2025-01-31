@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-10-15 23:15+0000\n"
+"PO-Revision-Date: 2025-01-31 14:02+0000\n"
 "Last-Translator: Joel Pinto <geral.joelpinto@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/pt/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8-rc\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -18,7 +18,7 @@ msgstr "Opções adicionais"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
-msgstr ""
+msgstr "Plot da caixa"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
@@ -101,7 +101,7 @@ msgstr "Plot de pesquisa"
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
 msgid "surveymv"
-msgstr ""
+msgstr "pesquisa mv"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
