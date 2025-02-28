@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-01-03 22:02+0000\n"
-"Last-Translator: scoffgard <scoffgard@gmail.com>\n"
+"PO-Revision-Date: 2025-02-28 22:02+0000\n"
+"Last-Translator: MYK-OTAKU <m2017koita@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/fr/>\n"
 "Language: fr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -22,7 +22,7 @@ msgstr "Boite à moustaches"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
-msgstr ""
+msgstr "Parcelles continues"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
@@ -35,7 +35,7 @@ msgstr "Données"
 #: package/analyses/surveyPlot.menuGroup
 #: surveyPlot/options.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "Exploration"
 
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
