@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-10-25 23:15+0000\n"
-"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
+"PO-Revision-Date: 2025-03-09 06:02+0000\n"
+"Last-Translator: asmaryadi <asmaryadi294@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/id/>\n"
 "Language: id\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.8.2-dev\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -40,12 +40,12 @@ msgstr "Eksplorasi"
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
 msgid "Frequency Labels"
-msgstr ""
+msgstr "Label Frekuensi"
 
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
 msgid "Frequency Type"
-msgstr ""
+msgstr "Tipe Frekuensi"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
