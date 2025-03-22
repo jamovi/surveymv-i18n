@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-03-09 06:02+0000\n"
+"PO-Revision-Date: 2025-03-22 05:01+0000\n"
 "Last-Translator: asmaryadi <asmaryadi294@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/id/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10.3-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -74,7 +74,7 @@ msgstr ""
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
-msgstr ""
+msgstr "Persentase"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
@@ -83,7 +83,7 @@ msgstr ""
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr ""
+msgstr "Tipe Plot"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
@@ -105,12 +105,12 @@ msgstr ""
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
-msgstr ""
+msgstr "deskripsi variabel"
 
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr ""
+msgstr "variabel"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
