@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-01-27 19:02+0000\n"
-"Last-Translator: Addd Abbb <adddabbb30@gmail.com>\n"
+"PO-Revision-Date: 2025-03-23 03:01+0000\n"
+"Last-Translator: ABDULLAH MOHAMMED ALMONTSHRI <acc302@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/ar/>\n"
 "Language: ar\n"
@@ -11,84 +11,84 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
-msgstr ""
+msgstr "خيارات إضافية"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
-msgstr ""
+msgstr "مخطط الصندوق"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
-msgstr ""
+msgstr "مخططات مستمرة"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
-msgstr ""
+msgstr "العد"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
-msgstr ""
+msgstr "بيانات"
 
 #: package/analyses/surveyPlot.menuGroup
 #: surveyPlot/options.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "استكشاف"
 
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
 msgid "Frequency Labels"
-msgstr ""
+msgstr "تسميات التكرار"
 
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
 msgid "Frequency Type"
-msgstr ""
+msgstr "تسميات الجداول"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr ""
+msgstr "شريط مجمع"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "متغير التجميع"
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
-msgstr ""
+msgstr "إخفاء القيم المفقودة"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
-msgstr ""
+msgstr "في المخطط"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr ""
+msgstr "مخططات اسمية / رتبية"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
-msgstr ""
+msgstr "على X-axis"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
-msgstr ""
+msgstr "النسب المئوية"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
-msgstr ""
+msgstr "عناصر المخطط"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr ""
+msgstr "نوع المخطط"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr ""
+msgstr "شريط مجمع"
 
 #: package.title
 #: package/analyses/surveyPlot.title
@@ -97,22 +97,22 @@ msgstr ""
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
 msgid "Survey Plots"
-msgstr ""
+msgstr "قطع مسطحة"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
 msgid "surveymv"
-msgstr ""
+msgstr "مسح"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
-msgstr ""
+msgstr "وصف المتغير"
 
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr ""
+msgstr "المتغيرات"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "كمان"
