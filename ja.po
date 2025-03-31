@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-03-31 05:01+0000\n"
+"PO-Revision-Date: 2025-03-31 06:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/ja/>\n"
@@ -49,12 +49,12 @@ msgstr "度数のタイプ"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr "グループ化棒グラフ"
+msgstr "グループ化"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
 msgid "Grouping Variable"
-msgstr "グループ化変数"
+msgstr "グループ変数"
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
@@ -78,16 +78,16 @@ msgstr "パーセント"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
-msgstr ""
+msgstr "グラフスタイル"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr ""
+msgstr "棒グラフスタイル"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr ""
+msgstr "積上げ"
 
 #: package.title
 #: package/analyses/surveyPlot.title
@@ -96,22 +96,22 @@ msgstr ""
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
 msgid "Survey Plots"
-msgstr ""
+msgstr "サーベイプロット"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
 msgid "surveymv"
-msgstr ""
+msgstr "surveymv"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
-msgstr ""
+msgstr "変数の説明"
 
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr ""
+msgstr "変数"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "バイオリン図"
