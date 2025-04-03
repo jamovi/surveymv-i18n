@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-11-27 08:01+0000\n"
-"Last-Translator: alex johnson <yawgmoth@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2025-04-03 11:02+0000\n"
+"Last-Translator: Jens Hartmann <jens.hartmann@axonivy.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/de/>\n"
 "Language: de\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -22,7 +22,7 @@ msgstr "Boxplot"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
-msgstr ""
+msgstr "Kontinuierliche Plots"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
@@ -49,7 +49,7 @@ msgstr "Frequenztyp"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr ""
+msgstr "Gruppierte Balken"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
