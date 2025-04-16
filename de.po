@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-04-03 11:02+0000\n"
-"Last-Translator: Jens Hartmann <jens.hartmann@axonivy.com>\n"
+"PO-Revision-Date: 2025-04-16 21:01+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/de/>\n"
 "Language: de\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -18,7 +18,7 @@ msgstr "Zusätzliche Optionen"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
-msgstr "Boxplot"
+msgstr "Box-Plot"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
@@ -26,7 +26,7 @@ msgstr "Kontinuierliche Plots"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
-msgstr "Zählungen"
+msgstr "Anzahl"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
@@ -54,7 +54,7 @@ msgstr "Gruppierte Balken"
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "Gruppierungsvariable"
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
@@ -62,15 +62,15 @@ msgstr "Verstecke fehlende Werte"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
-msgstr ""
+msgstr "Im Diagramm"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr ""
+msgstr "Nominale / ordinale Plots"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
-msgstr ""
+msgstr "Auf der x-Achse"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
@@ -78,16 +78,16 @@ msgstr "Prozentsätze"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
-msgstr ""
+msgstr "Elemente des Plots"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr "Plottpy"
+msgstr "Diagrammtyp"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr ""
+msgstr "Gestapelte Säule"
 
 #: package.title
 #: package/analyses/surveyPlot.title
@@ -96,12 +96,12 @@ msgstr ""
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
 msgid "Survey Plots"
-msgstr ""
+msgstr "Survey-Diagramme"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
 msgid "surveymv"
-msgstr ""
+msgstr "surveymv"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
@@ -114,4 +114,4 @@ msgstr "Variablen"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "Violin-Plot"
