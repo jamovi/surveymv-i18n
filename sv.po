@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-04-16 21:01+0000\n"
+"PO-Revision-Date: 2025-04-16 21:13+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/sv/>\n"
@@ -49,24 +49,24 @@ msgstr "Frekvens-typ"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr ""
+msgstr "Grupperad stolpe"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "Grupperingsvariabel"
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
-msgstr "Dölj värden som saknas"
+msgstr "Dölj saknade värden"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
-msgstr ""
+msgstr "I diagrammet"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr ""
+msgstr "Nominal / ordinal plottar"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
@@ -78,16 +78,16 @@ msgstr "Procentandelar"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
-msgstr ""
+msgstr "Element i diagrammet"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr ""
+msgstr "Typ av diagram"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr ""
+msgstr "Staplad stolpe"
 
 #: package.title
 #: package/analyses/surveyPlot.title
@@ -96,12 +96,12 @@ msgstr ""
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
 msgid "Survey Plots"
-msgstr ""
+msgstr "Survey-diagram"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
 msgid "surveymv"
-msgstr ""
+msgstr "surveymv"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
@@ -114,4 +114,4 @@ msgstr "Variabler"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "Violin-diagram"
