@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-04-05 19:01+0000\n"
-"Last-Translator: Aymeric <mybeautifuladress@gmail.com>\n"
+"PO-Revision-Date: 2025-05-11 05:01+0000\n"
+"Last-Translator: Mel420-star <roaakolyyy@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/fr/>\n"
 "Language: fr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -39,57 +39,59 @@ msgstr "Exploration"
 
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
-#, fuzzy
 msgid "Frequency Labels"
 msgstr "Etiquettes fréquentes"
 
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
-#, fuzzy
 msgid "Frequency Type"
-msgstr "Type frequent"
+msgstr "Type de fréquence"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr ""
+msgstr "Barre groupée"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "Variable de regroupement."
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
-msgstr ""
+msgstr "Masquer les valeurs manquantes"
 
 #: surveyPlot/options/labels/inPlot.title
+#, fuzzy
 msgid "In plot"
-msgstr ""
+msgstr "Dans le graphique"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr ""
+msgstr "Graphiques nominaux / ordonnés"
 
 #: surveyPlot/options/labels/onAxis.title
+#, fuzzy
 msgid "On x-axis"
-msgstr ""
+msgstr "Sur l'axe des x"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
-msgstr ""
+msgstr "Pourcentages."
 
 #: surveyPlot/ui[3][0][0][0].label
+#, fuzzy
 msgid "Plot Elements"
-msgstr ""
+msgstr "Éléments du graphique"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
+#, fuzzy
 msgid "Plot Type"
-msgstr ""
+msgstr "Type de graphique"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr ""
+msgstr "Barre empilée"
 
 #: package.title
 #: package/analyses/surveyPlot.title
@@ -97,23 +99,25 @@ msgstr ""
 #: surveyPlot/options.title
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
+#, fuzzy
 msgid "Survey Plots"
-msgstr ""
+msgstr "Graphiques d'enquête"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
 msgid "surveymv"
-msgstr ""
+msgstr "surveymv"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
-msgstr ""
+msgstr "Description de la variable"
 
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr ""
+msgstr "Variables"
 
 #: surveyPlot/options/violin.title
+#, fuzzy
 msgid "Violin"
-msgstr ""
+msgstr "Violon"
