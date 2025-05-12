@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-05-11 05:01+0000\n"
-"Last-Translator: Mel420-star <roaakolyyy@gmail.com>\n"
+"PO-Revision-Date: 2025-05-12 22:02+0000\n"
+"Last-Translator: Dwynx <darknightsshadow1@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/fr/>\n"
 "Language: fr\n"
@@ -61,7 +61,6 @@ msgid "Hide missing values"
 msgstr "Masquer les valeurs manquantes"
 
 #: surveyPlot/options/labels/inPlot.title
-#, fuzzy
 msgid "In plot"
 msgstr "Dans le graphique"
 
@@ -70,22 +69,19 @@ msgid "Nominal / Ordinal Plots"
 msgstr "Graphiques nominaux / ordonnés"
 
 #: surveyPlot/options/labels/onAxis.title
-#, fuzzy
 msgid "On x-axis"
 msgstr "Sur l'axe des x"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
-msgstr "Pourcentages."
+msgstr "Pourcentages"
 
 #: surveyPlot/ui[3][0][0][0].label
-#, fuzzy
 msgid "Plot Elements"
 msgstr "Éléments du graphique"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
-#, fuzzy
 msgid "Plot Type"
 msgstr "Type de graphique"
 
@@ -118,6 +114,5 @@ msgid "Variables"
 msgstr "Variables"
 
 #: surveyPlot/options/violin.title
-#, fuzzy
 msgid "Violin"
 msgstr "Violon"
