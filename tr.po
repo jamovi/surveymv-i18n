@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-01-23 14:01+0000\n"
-"Last-Translator: defytones <haruntukle@icloud.com>\n"
+"PO-Revision-Date: 2025-05-13 07:02+0000\n"
+"Last-Translator: kawasashock <kawasashock@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/tr/>\n"
 "Language: tr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -30,7 +30,7 @@ msgstr ""
 
 #: surveyPlot/options/dot.title
 msgid "Data"
-msgstr ""
+msgstr "veri"
 
 #: package/analyses/surveyPlot.menuGroup
 #: surveyPlot/options.menuGroup
