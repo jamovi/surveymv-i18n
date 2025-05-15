@@ -1,89 +1,93 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"PO-Revision-Date: 2025-05-15 17:03+0000\n"
+"Last-Translator: Akhmetkhan <ashulgauov@gmail.com>\n"
+"Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
+"surveymv-i18n/kk/>\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
-msgstr ""
+msgstr "Қосымша мүмкіндіктер"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
-msgstr ""
+msgstr "Қорапша диаграмма"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
-msgstr ""
+msgstr "Үздіксіз диаграммалар"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
-msgstr ""
+msgstr "Саны"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
-msgstr ""
+msgstr "Деректер"
 
 #: package/analyses/surveyPlot.menuGroup
 #: surveyPlot/options.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "Барлау"
 
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
 msgid "Frequency Labels"
-msgstr ""
+msgstr "Жиілік белгілері"
 
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
 msgid "Frequency Type"
-msgstr ""
+msgstr "Жиілік түрі"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr ""
+msgstr "Топтастырылған баған"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "Топтастырушы айнымалы"
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
-msgstr ""
+msgstr "Жоғалған мәндерді жасыру"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
-msgstr ""
+msgstr "Диаграммада"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr ""
+msgstr "Номиналды / Реттік диаграммалар"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
-msgstr ""
+msgstr "X-осьінде"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
-msgstr ""
+msgstr "Пайыздар"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
-msgstr ""
+msgstr "Диаграмма элементтері"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr ""
+msgstr "Диаграмма түрі"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr ""
+msgstr "Қабаттасқан бағандар"
 
 #: package.title
 #: package/analyses/surveyPlot.title
@@ -92,22 +96,22 @@ msgstr ""
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
 msgid "Survey Plots"
-msgstr ""
+msgstr "Сауалнама диаграммалары"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
 msgid "surveymv"
-msgstr ""
+msgstr "көптік айнымалылар сауалнамасы"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
-msgstr ""
+msgstr "Айнымалы сипаттамасы"
 
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr ""
+msgstr "Айнымалылар"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "Скрипка"
