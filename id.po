@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-03-22 05:01+0000\n"
-"Last-Translator: asmaryadi <asmaryadi294@gmail.com>\n"
+"PO-Revision-Date: 2025-05-19 02:02+0000\n"
+"Last-Translator: mohyusufz <yusufazzamzami@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/id/>\n"
 "Language: id\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -58,7 +58,7 @@ msgstr ""
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
-msgstr ""
+msgstr "Sembunyikan nilai kosong"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
@@ -70,7 +70,7 @@ msgstr ""
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
-msgstr ""
+msgstr "Pada sumbu-x"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
@@ -78,7 +78,7 @@ msgstr "Persentase"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
-msgstr ""
+msgstr "Elemen grafik"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
