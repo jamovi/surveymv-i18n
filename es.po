@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-10-14 16:16+0000\n"
-"Last-Translator: algoncer <gonzalo.almerich@uv.es>\n"
+"PO-Revision-Date: 2025-07-25 20:03+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/es/>\n"
 "Language: es\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-rc\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -26,7 +26,7 @@ msgstr "Gráficos variables continuas"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
-msgstr "Frecuencias"
+msgstr "Recuentos"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
