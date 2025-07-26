@@ -1,20 +1,24 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"PO-Revision-Date: 2025-07-26 18:13+0000\n"
+"Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
+"Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
+"surveymv-i18n/ml/>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
-msgstr ""
+msgstr "കൂടുതൽ ഓപ്ഷനുകൾ"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
-msgstr ""
+msgstr "ബോക്സ് പ്ലോട്ട്"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
