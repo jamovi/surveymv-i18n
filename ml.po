@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-07-26 18:13+0000\n"
+"PO-Revision-Date: 2025-07-27 05:03+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/ml/>\n"
@@ -40,33 +40,33 @@ msgstr ""
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
 msgid "Frequency Labels"
-msgstr ""
+msgstr "ഫ്രീക്വൻസി ലേബലുകൾ"
 
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
 msgid "Frequency Type"
-msgstr ""
+msgstr "ഫ്രീക്വൻസി ടൈപ്പ്"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr ""
+msgstr "ഗ്രൂപ്പ്ഡ് ബാർ"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "ഗ്രൂപ്പിങ്ങ് വേരിയബിൾ"
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
-msgstr ""
+msgstr "ഇല്ലാത്ത മൂല്യങ്ങൾ മറയ്ക്കുക"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
-msgstr ""
+msgstr "പ്ലോട്ടിൽ"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr ""
+msgstr "നോമിനൽ / ഓർഡിനൽ പ്ലോട്ടുകൾ"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
