@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-07-27 05:03+0000\n"
+"PO-Revision-Date: 2025-07-27 06:03+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/ml/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
-msgstr ""
+msgstr "എണ്ണങ്ങൾ"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
@@ -70,11 +70,11 @@ msgstr "നോമിനൽ / ഓർഡിനൽ പ്ലോട്ടുകൾ"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
-msgstr ""
+msgstr "x-axis ൽ"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
-msgstr ""
+msgstr "ശതമാനങ്ങൾ"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
