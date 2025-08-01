@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-07-27 06:03+0000\n"
+"PO-Revision-Date: 2025-08-01 08:02+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/ml/>\n"
@@ -30,7 +30,7 @@ msgstr "എണ്ണങ്ങൾ"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
-msgstr ""
+msgstr "ഡേറ്റ"
 
 #: package/analyses/surveyPlot.menuGroup
 #: surveyPlot/options.menuGroup
