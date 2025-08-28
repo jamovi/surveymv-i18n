@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-06-19 08:03+0000\n"
-"Last-Translator: Stefouch <stefouch@gmail.com>\n"
+"PO-Revision-Date: 2025-08-28 09:01+0000\n"
+"Last-Translator: lolly76 <thelolly76@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/fr/>\n"
 "Language: fr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.12.1\n"
+"X-Generator: Weblate 5.13\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -39,7 +39,6 @@ msgstr "Exploration"
 
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
-#, fuzzy
 msgid "Frequency Labels"
 msgstr "Etiquettes de fréquence"
 
@@ -96,7 +95,6 @@ msgstr "Barre empilée"
 #: surveyPlot/options.title
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
-#, fuzzy
 msgid "Survey Plots"
 msgstr "Graphiques d'enquête"
 
