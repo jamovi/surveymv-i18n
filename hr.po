@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-09-12 18:01+0000\n"
+"PO-Revision-Date: 2025-09-12 19:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/hr/>\n"
@@ -41,12 +41,12 @@ msgstr "Eksploracija"
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
 msgid "Frequency Labels"
-msgstr "Oznake frekvencije"
+msgstr "Oznake učestalosti"
 
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
 msgid "Frequency Type"
-msgstr "Vrsta frekvencije"
+msgstr "Vrsta učestalosti"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
