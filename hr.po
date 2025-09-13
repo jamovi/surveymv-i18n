@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-09-12 23:01+0000\n"
+"PO-Revision-Date: 2025-09-13 12:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/hr/>\n"
@@ -67,7 +67,7 @@ msgstr "U grafikonu"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr ""
+msgstr "Nominalni / Ordinalni dijagrami"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
@@ -115,4 +115,4 @@ msgstr "Varijable"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "Violinski dijagram"
