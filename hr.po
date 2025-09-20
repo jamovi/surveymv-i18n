@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-09-13 13:01+0000\n"
+"PO-Revision-Date: 2025-09-20 15:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/hr/>\n"
@@ -63,7 +63,7 @@ msgstr "Sakrij nedostajuće vrijednosti"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
-msgstr "U grafikonu"
+msgstr "U dijagramu"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
@@ -79,7 +79,7 @@ msgstr "Postoci"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
-msgstr "Elementi grafikona"
+msgstr "Elementi dijagrama"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
