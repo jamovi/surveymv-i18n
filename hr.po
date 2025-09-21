@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-09-20 15:01+0000\n"
+"PO-Revision-Date: 2025-09-21 12:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/hr/>\n"
@@ -27,7 +27,7 @@ msgstr "Kontinuirani dijagrami"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
-msgstr "Broj"
+msgstr "Brojevi"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
