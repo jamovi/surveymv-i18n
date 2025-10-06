@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-09-25 23:01+0000\n"
-"Last-Translator: Bai <bai@baturax.com>\n"
+"PO-Revision-Date: 2025-10-06 22:01+0000\n"
+"Last-Translator: Hamza Yalçin <h.yalcin08@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/tr/>\n"
 "Language: tr\n"
@@ -26,11 +26,11 @@ msgstr "Sürekli Grafikler"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
-msgstr "Sayımlar"
+msgstr "Sayılar"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
-msgstr "veri"
+msgstr "Veri"
 
 #: package/analyses/surveyPlot.menuGroup
 #: surveyPlot/options.menuGroup
@@ -83,7 +83,7 @@ msgstr "Hikaye Unsurları"
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr "Arsa Tipi"
+msgstr "Grafik Türü"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
