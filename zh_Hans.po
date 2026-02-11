@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-05-24 06:03+0000\n"
-"Last-Translator: zzzero buzz <buzzzzzero97@gmail.com>\n"
+"PO-Revision-Date: 2026-02-11 08:09+0000\n"
+"Last-Translator: yeyeye <m15658453017@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/surveymv-i18n/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -26,7 +26,7 @@ msgstr "连续绘制"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
-msgstr "统计"
+msgstr "计数"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
