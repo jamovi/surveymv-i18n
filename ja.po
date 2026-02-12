@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-12 10:09+0000\n"
+"PO-Revision-Date: 2026-02-12 11:09+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/surveymv-"
 "i18n/ja/>\n"
@@ -45,7 +45,7 @@ msgstr "度数ラベル"
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
 msgid "Frequency Type"
-msgstr "度数のタイプ"
+msgstr "度数の種類"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
