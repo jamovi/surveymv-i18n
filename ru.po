@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-15 14:09+0000\n"
+"PO-Revision-Date: 2026-02-15 15:09+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/surveymv-"
 "i18n/ru/>\n"
@@ -50,7 +50,7 @@ msgstr "Тип частоты"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr "Сгруппированный бар"
+msgstr "Сгруппированная столбчатая диаграмма"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
@@ -71,7 +71,7 @@ msgstr "Номинальные / Порядковые графики"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
-msgstr "По оси х"
+msgstr "На оси X"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
@@ -88,7 +88,7 @@ msgstr "Тип графика"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr "Диаграмма с накоплением"
+msgstr "Столбчатая диаграмма с накоплением"
 
 #: package.title
 #: package/analyses/surveyPlot.title
