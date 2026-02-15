@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-15 13:41+0000\n"
+"PO-Revision-Date: 2026-02-15 14:09+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/surveymv-"
 "i18n/ru/>\n"
@@ -88,7 +88,7 @@ msgstr "Тип графика"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr "Столбиковая диаграмма с накоплением"
+msgstr "Диаграмма с накоплением"
 
 #: package.title
 #: package/analyses/surveyPlot.title
