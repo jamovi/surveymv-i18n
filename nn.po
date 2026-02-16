@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-16 02:09+0000\n"
+"PO-Revision-Date: 2026-02-16 03:10+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Nynorsk <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/nn/>\n"
@@ -18,7 +18,7 @@ msgstr "Fleire alternativ"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
-msgstr "Boksplott"
+msgstr "Boksplot"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
