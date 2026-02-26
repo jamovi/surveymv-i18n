@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-19 19:11+0000\n"
-"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
+"PO-Revision-Date: 2026-02-26 20:09+0000\n"
+"Last-Translator: José Ángel Iranzo Sanz <joseani@unizar.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/surveymv-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -83,7 +83,7 @@ msgstr "Elementos del gráfico"
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr "Tipo de Trama"
+msgstr "Tipo de gráfico"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
