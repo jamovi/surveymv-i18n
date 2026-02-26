@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2024-10-14 08:15+0000\n"
-"Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
+"PO-Revision-Date: 2026-02-26 16:09+0000\n"
+"Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/surveymv-i18n/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -26,11 +26,11 @@ msgstr "連續變項圖"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
-msgstr "次數統計"
+msgstr "次數"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
-msgstr "包含資料點"
+msgstr "資料"
 
 #: package/analyses/surveyPlot.menuGroup
 #: surveyPlot/options.menuGroup
@@ -87,7 +87,7 @@ msgstr "圖形種類"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr "長條圖堆疊顯示"
+msgstr "堆疊長條圖"
 
 #: package.title
 #: package/analyses/surveyPlot.title
