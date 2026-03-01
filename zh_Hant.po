@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-28 06:09+0000\n"
+"PO-Revision-Date: 2026-03-01 07:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/surveymv-i18n/zh_Hant/>\n"
@@ -22,7 +22,7 @@ msgstr "箱形圖"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
-msgstr "連續變項圖"
+msgstr "連續圖"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
@@ -66,7 +66,7 @@ msgstr "顯示於圖中"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr "名義/次序變項圖"
+msgstr "名義/次序圖"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
