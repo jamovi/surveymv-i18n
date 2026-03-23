@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-03-23 07:09+0000\n"
+"PO-Revision-Date: 2026-03-23 08:09+0000\n"
 "Last-Translator: yeyeye <m15658453017@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/surveymv-i18n/zh_Hans/>\n"
@@ -83,7 +83,7 @@ msgstr "图形中包含"
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr "图片类型"
+msgstr "图表类型"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
