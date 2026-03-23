@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-03-23 08:09+0000\n"
+"PO-Revision-Date: 2026-03-23 13:09+0000\n"
 "Last-Translator: yeyeye <m15658453017@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/surveymv-i18n/zh_Hans/>\n"
@@ -110,7 +110,7 @@ msgstr "描述变项"
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr "变项"
+msgstr "变量"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
