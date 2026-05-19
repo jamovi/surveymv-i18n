@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-05-19 02:02+0000\n"
-"Last-Translator: mohyusufz <yusufazzamzami@gmail.com>\n"
+"PO-Revision-Date: 2026-05-19 21:11+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/id/>\n"
 "Language: id\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -18,7 +18,7 @@ msgstr "Opsi tambahan"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
-msgstr "Plot kotak"
+msgstr "Box plot"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
@@ -26,7 +26,7 @@ msgstr "Plot Berkelanjutan"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
-msgstr "Menghitung"
+msgstr "Frekuensi"
 
 #: surveyPlot/options/dot.title
 msgid "Data"
@@ -54,7 +54,7 @@ msgstr ""
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "Variabel pengelompokan"
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
@@ -83,7 +83,7 @@ msgstr "Elemen grafik"
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr "Tipe Plot"
+msgstr "Jenis Plot"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
@@ -110,8 +110,8 @@ msgstr "deskripsi variabel"
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr "variabel"
+msgstr "Variabel"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "Violin"
