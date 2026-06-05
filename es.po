@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2026-06-05 15:01+0000\n"
-"Last-Translator: José Ángel Iranzo <iranzosanz@gmail.com>\n"
+"Last-Translator: Miguel L <miguellb@unizar.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/surveymv-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -54,11 +54,11 @@ msgstr "Barras agrupadas"
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
 msgid "Grouping Variable"
-msgstr "Agrupar Variable"
+msgstr "Variables de agrupación"
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
-msgstr "Ocultar los valores perdidos"
+msgstr "Ocultar valores perdidos"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
