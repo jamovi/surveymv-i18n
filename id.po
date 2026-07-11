@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-06-27 06:01+0000\n"
-"Last-Translator: Jonathon Love <jon@thon.cc>\n"
+"PO-Revision-Date: 2026-10-14 03:51+0000\n"
+"Last-Translator: Kukuh Pambuka Putra "
+"<kukuh.pambuka@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/id/>\n"
 "Language: id\n"
@@ -10,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.7.dev0\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
@@ -49,7 +50,7 @@ msgstr "Tipe Frekuensi"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr ""
+msgstr "Bar Terkelompokkan"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
@@ -62,11 +63,11 @@ msgstr "Sembunyikan nilai kosong"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
-msgstr ""
+msgstr "Dalam plot"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr ""
+msgstr "Plot Nominal / Ordinal"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
@@ -87,7 +88,7 @@ msgstr "Jenis Plot"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr ""
+msgstr "Bar bertumpuk"
 
 #: package.title
 #: package/analyses/surveyPlot.title
@@ -96,12 +97,13 @@ msgstr ""
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
 msgid "Survey Plots"
-msgstr ""
+msgstr "Plot Survei"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
+#, fuzzy
 msgid "surveymv"
-msgstr ""
+msgstr "sureveimv"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
