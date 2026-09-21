@@ -2,8 +2,7 @@ msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2026-10-14 03:51+0000\n"
-"Last-Translator: Kukuh Pambuka Putra "
-"<kukuh.pambuka@users.noreply.hosted.weblate.org>\n"
+"Last-Translator: Stysusss <158248053+stysus@users.noreply.github.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "surveymv-i18n/id/>\n"
 "Language: id\n"
@@ -101,9 +100,8 @@ msgstr "Plot Survei"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
-#, fuzzy
 msgid "surveymv"
-msgstr "sureveimv"
+msgstr "surveymv"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
