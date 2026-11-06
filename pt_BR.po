@@ -4,18 +4,18 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-10-14 03:51+0000\n"
+"PO-Revision-Date: 2026-11-17 23:51+0000\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "Last-Translator: ALANA NUNENMACKER "
 "<anunenmacker@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "jamovi/surveymv-i18n/pt_BR/>\n"
-"X-Generator: Weblate 2026.11.dev0\n"
+"X-Generator: Weblate 2026.12.dev0\n"
 
 #: surveyPlot/ui[2][0][1][1].label
 msgid "Additional options"
-msgstr ""
+msgstr "Opções adicionais"
 
 #: surveyPlot/options/box.title
 msgid "Box plot"
@@ -23,7 +23,7 @@ msgstr "Gráfico de caixas"
 
 #: surveyPlot/ui[3].label
 msgid "Continuous Plots"
-msgstr ""
+msgstr "Gráficos de Variáveis Contínuas"
 
 #: surveyPlot/options/freq/count.title
 msgid "Counts"
@@ -41,16 +41,16 @@ msgstr "Exploração"
 #: surveyPlot/options/labels.title
 #: surveyPlot/ui[2][0][1][0].label
 msgid "Frequency Labels"
-msgstr ""
+msgstr "Rótulos de Frequência"
 
 #: surveyPlot/options/freq.title
 #: surveyPlot/ui[2][0][0][1].label
 msgid "Frequency Type"
-msgstr ""
+msgstr "Tipo de Frequência"
 
 #: surveyPlot/options/type/grouped.title
 msgid "Grouped bar"
-msgstr ""
+msgstr "Gráfico de barras agrupadas"
 
 #: surveyPlot/options/group.title
 #: surveyPlot/ui[0][1].label
@@ -59,36 +59,36 @@ msgstr "Variável de agrupamento"
 
 #: surveyPlot/options/hideNA.title
 msgid "Hide missing values"
-msgstr ""
+msgstr "Ocultar valores ausentes"
 
 #: surveyPlot/options/labels/inPlot.title
 msgid "In plot"
-msgstr ""
+msgstr "No gráfico"
 
 #: surveyPlot/ui[2].label
 msgid "Nominal / Ordinal Plots"
-msgstr ""
+msgstr "Gráficos para dados Nominais / Ordinais"
 
 #: surveyPlot/options/labels/onAxis.title
 msgid "On x-axis"
-msgstr ""
+msgstr "No eixo x"
 
 #: surveyPlot/options/freq/perc.title
 msgid "Percentages"
-msgstr ""
+msgstr "Porcentagens"
 
 #: surveyPlot/ui[3][0][0][0].label
 msgid "Plot Elements"
-msgstr ""
+msgstr "Elementos do Gráfico"
 
 #: surveyPlot/options/type.title
 #: surveyPlot/ui[2][0][0][0].label
 msgid "Plot Type"
-msgstr ""
+msgstr "Tipo de Gráfico"
 
 #: surveyPlot/options/type/stacked.title
 msgid "Stacked bar"
-msgstr ""
+msgstr "Gráfico de barras empilhadas"
 
 #: package.title
 #: package/analyses/surveyPlot.title
@@ -97,22 +97,22 @@ msgstr ""
 #: surveyPlot/ui.title
 #: surveyPlot/results.title
 msgid "Survey Plots"
-msgstr ""
+msgstr "Gráficos de Pesquisa"
 
 #: package/analyses/surveyPlot.menuSubgroup
 #: surveyPlot/options.menuSubgroup
 msgid "surveymv"
-msgstr ""
+msgstr "surveymv"
 
 #: surveyPlot/options/desc.title
 msgid "Variable description"
-msgstr ""
+msgstr "Descrição da variável"
 
 #: surveyPlot/options/vars.title
 #: surveyPlot/ui[0][0].label
 msgid "Variables"
-msgstr ""
+msgstr "Variáveis"
 
 #: surveyPlot/options/violin.title
 msgid "Violin"
-msgstr ""
+msgstr "Violino"
